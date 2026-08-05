@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 069171306ad5a7945b5542eb871ac26e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pasos: {fileID: 8328198234102788392, guid: 0e79bfea2761a4b439a6373569bff7d3, type: 3}
+  - sonidoZombie: {fileID: 7856879493766189396, guid: 1a9d22d47afb9b34bb71d6b47ad23301, type: 3}
+  - golpe: {fileID: 3555878821592491520, guid: 8b86d11dae0c9d04f98af82a2c26bf3f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
